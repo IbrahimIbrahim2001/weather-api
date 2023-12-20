@@ -1,0 +1,28 @@
+{
+  "favourites": [
+    {
+      "cityName": "Dubai",
+      "id": 1
+    },
+    {
+      "cityName": "Latakia",
+      "id": 2
+    },
+    {
+      "cityName": "Damascus",
+      "id": 3
+    },
+    {
+      "cityName": "Moscow",
+      "id": 4
+    },
+    {
+      "cityName": "Minsk",
+      "id": 5
+    },
+    {
+      "cityName": "London",
+      "id": 6
+    }
+  ]
+}
